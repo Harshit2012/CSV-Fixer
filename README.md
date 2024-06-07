@@ -30,6 +30,27 @@ Chris Lee,NaN,Male,172,75,UK
 ## Preview
 ![Preview (1)](https://github.com/Harshit2012/CSV-Fixer/assets/105143145/bc8a689b-c338-4325-ba2d-544be1fe9f0c)
 
+## To install libraries
+### Tkinter
+```bash
+pip install tk
+```
+
+### numpy
+```bash
+pip install numpy
+```
+
+### matplotlib
+```bash
+pip install matplotlib
+```
+
+### pandas
+```bash
+pip install pandas
+```
+
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
