@@ -50,6 +50,11 @@ pip install matplotlib
 pip install pandas
 ```
 
+## To run
+```bash
+python csv_fixer.py
+```
+
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
