@@ -6,6 +6,8 @@ Format and clean csv file.
 ![Forks](https://img.shields.io/github/forks/harshit2012/CSV-Fixer)
 ![Stars](https://img.shields.io/github/stars/harshit2012/CSV-Fixer)
 
+![Preview (1)](https://github.com/Harshit2012/CSV-Fixer/assets/105143145/bc8a689b-c338-4325-ba2d-544be1fe9f0c)
+
 ## Features
 - Easy to use
 - Format and clean the csv
@@ -26,9 +28,6 @@ David Wilson,30,Male,NaN,80,USA
 Laura Taylor,29,Female,162,52,NaN
 Chris Lee,NaN,Male,172,75,UK
 ```
-
-## Preview
-![Preview (1)](https://github.com/Harshit2012/CSV-Fixer/assets/105143145/bc8a689b-c338-4325-ba2d-544be1fe9f0c)
 
 ## To install libraries
 ### Tkinter
